@@ -1,0 +1,16 @@
+.recipes {
+    text-align: center;
+}
+
+table {
+    display: inline-block;
+    text-align: center;
+
+}
+
+td {
+
+    margin: 10px;
+    padding-inline: 50px;
+    padding-top: 10px;
+}
